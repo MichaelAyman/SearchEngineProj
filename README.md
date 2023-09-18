@@ -9,6 +9,6 @@ After downloading the folder you will be able to run the code through opening th
 # How to use
 Open the file "Keyword.csv".
 Follow the instructions given until asked to inseart a search.
-Choose any keywords and put them together either using "AND", "OR" or spaces that count as an "OR".
+Choose any keywords from the "Keyword.csv" file and put them together either using "AND", "OR" or spaces that count as an "OR".
 If one wants to search for a keyword that uses more than one word, they can put such keyword within quotations.
 
