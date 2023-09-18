@@ -4,7 +4,7 @@ A search engine project that uses google's page rank algorithm, that utilizes ma
 # How to install and run
 This project uses c++ and was made on Visual Studio.
 This folder includes multiple files that are required to run the project, as it contains the keywords and the graph linking the sites together and the number of clicks and impressions which are all used to caclulate the order with which the output is listed using the page rank algorithm.
-After downloading the folder you will be able to run the code using the .sln file.
+After downloading the folder you will be able to run the code through opening the .sln file and running it from the run button.
 
 # How to use
 Open the file "Keyword.csv".
